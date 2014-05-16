@@ -6,6 +6,7 @@ We created a web app that uses Twilio &amp; last.fm's APIs to send text messages
 
 Users can request for this information through a text message ('players') to Twilio, following which, the information on BBC Radio One's last played song and artist will be sent to the user via text message. 
 
+(Week 8)
 
 ##Instructions
 1. Add your twilio account to the code
@@ -14,7 +15,7 @@ Users can request for this information through a text message ('players') to Twi
 
 
 
-##Technologies used:
+##Technologies used
 
 - Ruby
 - Twilio API
